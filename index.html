@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "首页"
 description: "零散记录一些内容的地方"
 header-img: "img/bg-index.jpg"
 ---
@@ -23,7 +22,7 @@ header-img: "img/bg-index.jpg"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}&nbsp;&nbsp;{{ post.date | date: "%Y-%m-%d" }}
     </p>
 </div>
 <hr>
@@ -34,12 +33,12 @@ header-img: "img/bg-index.jpg"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 上页</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下页 &rarr;</a>
     </li>
     {% endif %}
 </ul>
