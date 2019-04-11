@@ -1,6 +1,7 @@
 # Site settings
 title: Snake Blog
 SEOTitle: 博客 | Snake
+author: Snake
 header-img: img/bg-default.jpg
 email: snakejordan@gmail.com
 description: "零散记录一些内容的地方"
