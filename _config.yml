@@ -68,13 +68,13 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # Friends
-friends: [
-  {
-    title: "柏荧的博客",
-    href: "http://qiubaiying.top/"
-  },
-  {
-    title: "黄玄的博客",
-    href: "https://huangxuan.me/"
-  },
-]
+#friends: [
+#  {
+#    title: "柏荧的博客",
+#    href: "http://qiubaiying.top/"
+#  },
+#  {
+#    title: "黄玄的博客",
+#    href: "https://huangxuan.me/"
+#  },
+#]
