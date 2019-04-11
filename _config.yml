@@ -21,7 +21,7 @@ sidebar-about-description: "爱技术、爱车、爱延、爱家。"
 sidebar-avatar: /img/M.jpg
 
 # SNS settings
-RSS: false
+RSS: true
 github_username: snakejordan
 twitter_username: ZhangXiaoTong
 facebook_username: ty289
