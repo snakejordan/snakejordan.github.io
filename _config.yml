@@ -1,7 +1,7 @@
 # Site settings
 title: Snake Blog
-SEOTitle: 零散记录一些内容的地方 | Snake Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 博客 | Snake
+header-img: img/bg-default.jpg
 email: snakejordan@gmail.com
 description: "零散记录一些内容的地方"
 keyword: "Snake, snakejordan, snake_jordan"
@@ -17,11 +17,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-twitter_username:   qiubaiying
+github_username: snakejordan
+twitter_username: ZhangXiaoTong
+facebook_username: ty289
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
