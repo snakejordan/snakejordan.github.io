@@ -2,7 +2,7 @@
 title: Snake Blog
 SEOTitle: 零散记录 | Snake
 author: Snake
-header-img: img/bg-default.jpg
+header-img: "https://ws1.sinaimg.cn/large/006tNc79ly1g1yuq7dllvj318g0re0uf.jpg"
 email: snakejordan@gmail.com
 description: "这是我零散记录一些内容的地方，希望这些内容对你、对我、对所有人能有一些帮助。"
 keyword: "Snake, snakejordan, snake_jordan, blog"
@@ -18,7 +18,7 @@ github_repo: "https://github.com/snakejordan/snakejordan.github.io.git"
 sidebar: true
 sidebar-about-description: "爱技术、爱车、爱延、爱家。"
 # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/M.jpg
+sidebar-avatar: https://ws1.sinaimg.cn/large/006tNc79ly1g1yuq5anwbj30dm0dmwem.jpg
 
 # SNS settings
 RSS: true
