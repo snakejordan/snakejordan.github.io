@@ -1,18 +1,17 @@
 # Site settings
 title: Snake Blog
-SEOTitle: 博客 | Snake
+SEOTitle: 零散记录 | Snake
 author: Snake
 header-img: img/bg-default.jpg
 email: snakejordan@gmail.com
-description: "零散记录一些内容的地方"
-keyword: "Snake, snakejordan, snake_jordan"
+description: "这是我零散记录一些内容的地方，希望这些内容对你、对我、对所有人能有一些帮助。"
+keyword: "Snake, snakejordan, snake_jordan, blog"
 # your host, for absolute URL
 url: "https://blog.ty289.com"
 # for example, '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 # you code repository
 github_repo: "https://github.com/snakejordan/snakejordan.github.io.git"
-theme_on: "https://github.com/Huxpro"
 
 # Sidebar settings
 # whether or not using Sidebar.
@@ -70,4 +69,12 @@ service-worker: true
 
 # Friends
 friends: [
+  {
+    title: "柏荧的博客",
+    href: "http://qiubaiying.top/"
+  },
+  {
+    title: "黄玄的博客",
+    href: "https://huangxuan.me/"
+  },
 ]
