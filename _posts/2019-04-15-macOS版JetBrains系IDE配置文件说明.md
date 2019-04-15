@@ -4,7 +4,7 @@ title:      macOS版JetBrains系IDE配置文件说明
 subtitle:   需要修改一下配置文件，但是忘记路径在哪里了，所以记录一下。
 date:       2019-04-15
 author:     Snake
-header-img: img/post-2019-04-15-macOS版JetBrains系IDE配置文件说明-01.png
+header-img: https://ws3.sinaimg.cn/large/006tNc79ly1g23bvk9pojj31ho0u0tbv.jpg
 catalog:    true
 tags:
     - JetBrains
