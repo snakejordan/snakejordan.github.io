@@ -22,16 +22,16 @@ tags:
 
 # PyCharm
 
-~/Library/Preferences/PyCharm2018.2/pycharm.vmoptions
+> ~/Library/Preferences/PyCharm2018.2/pycharm.vmoptions
 
 # PhpStorm
 
-~/Library/Preferences/PhpStorm2018.2/phpstorm.vmoptions
+> ~/Library/Preferences/PhpStorm2018.2/phpstorm.vmoptions
 
 # WebStorm
 
-~/Library/Preferences/WebStorm2018.2/webstorm.vmoptions
+> ~/Library/Preferences/WebStorm2018.2/webstorm.vmoptions
 
 # IntelliJ IDEA
 
-~/Library/Preferences/PyCharm2018.2/pycharm.vmoptions
+> ~/Library/Preferences/PyCharm2018.2/pycharm.vmoptions
